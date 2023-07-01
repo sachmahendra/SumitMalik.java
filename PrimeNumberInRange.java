@@ -47,7 +47,7 @@ public class PrimeNumberInRange {
     }
     
     public static void main(String[] args) {
-        int low = 2;
+        int low = 10;
         int high = 15;
         printPrimeNumbers(low, high);
     }
